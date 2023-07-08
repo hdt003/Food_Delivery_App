@@ -1,1 +1,1 @@
-website published on:  (https://sri-group-7.netlify.app/)
+website published on:  (https://food-delivery-app-reactjs.netlify.app/)
