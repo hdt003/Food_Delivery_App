@@ -1,0 +1,91 @@
+{
+    "articles":
+    [
+        {
+            img:"https://i0.wp.com/s3.ap-south-1.amazonaws.com/images.salonyscookbook.com/pav-bhaji-recipe/pav-bhaji-recipe13.jpg?w=1200",
+            video:"",
+            name:"Pau Bhaji",
+            food_type: "Veg",
+            type: "Lunch",
+            description: "orizon",
+            price: 50,
+            popularity: 185,
+            address:"North Indian, Chinese, South Indian, Fast Food, Sandwich, Gujarati,Punjabi, Street Food Chopati, Sector 16, Gandhinagar",
+            review:5 //1 to 5
+            }
+            {
+                img:"https://b.zmtcdn.com/data/dish_photos/2c1/a77348ee2ef3a4cd271daeddd007b2c1.jpg?output-format=webp",
+                video:"",
+                name:"Dhosa",
+                food_type: "Veg",
+                type: "Lunch",
+                description: "orizon",
+                price: 60,
+                popularity: 180,
+                address:"North Indian, Chinese, South Indian, Fast Food, Sandwich, Gujarati,Punjabi, Street Food Chopati, Sector 16, Gandhinagar",
+                review:4 //1 to 5
+                }
+                {
+      
+                    img:"https://b.zmtcdn.com/data/dish_photos/9f6/5133f70f0228b7fb55c4f17430abc9f6.jpg",
+                    video:"",
+                    name:"Paratha",
+                    food_type: "Veg",
+                    type: "Breakfast",
+                    description: "Jalaram Fast Food",
+                    price: 40,
+                    popularity: 80,
+                    address:"Sector 6, Gandhinagar",
+                    review:4 //1 to 5
+                }
+                {
+      
+                    img:"https://b.zmtcdn.com/data/dish_photos/9f6/5133f70f0228b7fb55c4f17430abc9f6.jpg",
+                    video:"",
+                    name:"Paratha",
+                    food_type: "Veg",
+                    type: "Breakfast",
+                    description: "Taste The Best",
+                    price: 40,
+                    popularity: 80,
+                    address:"Chopati, Sector 16, Gandhinagar",
+                    review:4 //1 to 5
+                }
+                {
+                    img:"https://b.zmtcdn.com/data/dish_photos/a9f/921161b0ae1f3a4814644659cf34da9f.png",
+                    video:"",
+                    name:"Paratha",
+                    food_type: "Veg",
+                    type: "Breakfast",
+                    description: "Radhe Snacks",
+                    price: 35,
+                    popularity: 72,
+                    address:"Airport Gandhinagar Highway, Gandhinagar",
+                    review:4 //1 to 5
+                }
+                {
+                    img:"https://b.zmtcdn.com/data/dish_photos/c60/c0ff71f7619b4f786d5472c17e4acc60.jpg",
+                    video:"",
+                    name:"Paratha",
+                    food_type: "Veg",
+                    type: "Breakfast",
+                    description: "Greenz Restaurant",
+                    price: 40,
+                    popularity: 74,
+                    address:"Sector 10, Gandhinagar",
+                    review:5 //1 to 5
+                }
+                {
+                    img:"https://b.zmtcdn.com/data/dish_photos/2df/55103ca400c95bf4027a7493e38852df.jpg",
+                    video:"",
+                    name:"Paratha",
+                    food_type: "Veg",
+                    type: "Breakfast",
+                    description: "Savoury Restaurant",
+                    price: 45,
+                    popularity: 78,
+                    address:"Sector 7, Gandhinagar",
+                    review:5 //1 to 5
+                }
+    ]
+}

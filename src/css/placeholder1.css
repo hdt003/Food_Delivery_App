@@ -1,0 +1,12 @@
+
+.dark1::placeholder{
+
+    opacity: 0.6 !important;
+    color: white !important;
+
+}
+.light1::placeholder{
+
+  opacity: 0.6 !important;
+  color: black !important;
+}
